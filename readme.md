@@ -4,7 +4,7 @@ Orbiter 8 is a decentralized space game designed for the Ethereum Virtual Machin
 
 This repository conatins a deployable static build of the game client which is published here:
 
-[https://orbiter8demo3.github.io ](https://partavate-studios.github.io/orbiter8-demo3-client/)
+https://partavate-studios.github.io/orbiter8-demo3-client/ 
 
 Source code and extended information can be found here:
 
